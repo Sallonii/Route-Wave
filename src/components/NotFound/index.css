@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.image-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  color: #551e53;
+  font-size: 60px;
+}
+.image {
+  height: 300px;
+}
